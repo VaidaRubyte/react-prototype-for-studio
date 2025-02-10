@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-prototype-for-studio/static/css/main.07e5b270.css",
+    "main.js": "/react-prototype-for-studio/static/js/main.c1c35bf8.js",
+    "index.html": "/react-prototype-for-studio/index.html",
+    "main.07e5b270.css.map": "/react-prototype-for-studio/static/css/main.07e5b270.css.map",
+    "main.c1c35bf8.js.map": "/react-prototype-for-studio/static/js/main.c1c35bf8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07e5b270.css",
+    "static/js/main.c1c35bf8.js"
+  ]
+}
