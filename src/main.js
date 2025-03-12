@@ -8,13 +8,17 @@ const Main = () => {
   const [expanded, setExpanded] = useState(null);
 
   // Timeline events
-  const events = [
-    { year: 2000, title: "Company Founded", details: "Our company was founded info info info info info info info info ." },
-    { year: 2005, title: "First Major Milestone", details: "We achieved our first major milestone by info info info info info info info info info info info info info info info info." },
-    { year: 2010, title: "Milestone 2", details: "info info info info info info info info info info info info info info info info." },
-    { year: 2015, title: "Milestone 3", details: "info info info info info info info info info info info info info info info info." },
-    { year: 2020, title: "Milestone 4", details: "info info info info info info info info info info info info info info info info." },
-    { year: 2025, title: "Milestone 5", details: "info info info info info info info info info info info info info info info info info info info info info info info info." }
+const events = [
+    { year: 2000, title: "The Big Bang", details: "Openbrolly is founded and MovieSite Locations is launched." },
+    { year: 2002, title: "The dawn of time", details: "Introduction of MovieSite Crew and MovieMaps." },
+    { year: 2007, title: "The Paleozoic Era", details: "Launch of OB Health and NHS collaborations." },
+    { year: 2010, title: "The Mesozoic Era", details: "MovieSite and OB Health experience growth." },
+    { year: 2013, title: "The Cenozoic Era", details: "Recognition in life sciences and SaaS innovation." },
+    { year: 2017, title: "Evolution", details: "Launch of MovieSite Permits and EventsMakr." },
+    { year: 2022, title: "Transforming through every step", details: "Partnership with Moray HandyPerson Services." },
+    { year: 2023, title: "A Bump in the road", details: "Geoff Wilcock’s legacy and product expansion." },
+    { year: 2024, title: "Finding meaning", details: "Supporting wellbeing in the entertainment industry." },
+    { year: 2025, title: "The green road", details: "Sustainability program for TV and film productions." }
   ];
 
   return (
